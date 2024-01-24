@@ -1,5 +1,7 @@
+ <img src="/assets/Neutral Creative Professional LinkedIn Article Cover Image.png"> 
+
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<h3 align="center">Passionate Front-End Developer in the Making: Learning and Growing Every Day 🚀</h3>
+<h3 align="center">Passionate MERN Stack Enthusiast | Eager to Transform Ideas into Seamless Web Experiences | Continuous Learner and Tech Explorer 🚀</h3>
 
 
 
