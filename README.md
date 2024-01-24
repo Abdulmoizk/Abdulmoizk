@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
 <h3 align="center">Passionate Front-End Developer in the Making: Learning and Growing Every Day 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmoizk&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmoizk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulmoizk" alt="abdulmoizk" /></a> </p>
 
 - 🌱 I’m currently learning **React.js**
 
@@ -29,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulmoizk&show_icons=true&locale=en" alt="abdulmoizk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmoizk&" alt="abdulmoizk" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmoizk&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmoizk" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulmoizk" alt="abdulmoizk" /></a> </p>
